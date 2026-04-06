@@ -1,2 +1,2 @@
-# c99x_crm_web
-Frontend Side of CRM
+# c99x_crm
+CRM of C99X
